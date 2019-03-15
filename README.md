@@ -48,8 +48,8 @@ window.utils.closeImgPopup = closeImgPopup
   z-index: 9999;
 }
 #img-popup img {
-    max-width: 90%;
-    max-height: 90%;
-    border: 5px solid rgba(255,255,255,0.5);
-  }
+  max-width: 90%;
+  max-height: 90%;
+  border: 5px solid rgba(255,255,255,0.5);
+ }
 ```
