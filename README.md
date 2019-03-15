@@ -1,6 +1,6 @@
-### preview-img
-图片预览插件
-##### js
+# preview-img 图片预览插件
+
+### js
 ```js
 const closeImgPopup = () => {
   const document = window.document
@@ -33,7 +33,7 @@ window.utils = window.utils || {}
 window.utils.previewImg = previewImg
 window.utils.closeImgPopup = closeImgPopup
 ```
-##### css
+### css
 ```css
 #img-popup{
   position: fixed;
